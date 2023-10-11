@@ -1,0 +1,10 @@
+var
+equipe: caractere
+contador: inteiro
+
+inicio
+escreva("Qual o nome da equipe?: ")
+leia (equipe)
+para contador <- 1 ate 5 faca
+escreva (equipe, "-", contador)
+fimpara
