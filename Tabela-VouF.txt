@@ -1,0 +1,8 @@
+![Tabela_PeerTutoring01_IntroducaoProgramacao](C:\Users\WELLIN~1\AppData\Local\Temp\MicrosoftEdgeDownloads\8d044449-28a7-4c3b-8f1d-324cc0fc0c1b\Tabela_PeerTutoring01_IntroducaoProgramacao.png)
+
+1. Resultado True
+2. Resultado False
+3. Resultado False
+4. Resultado false
+5. Resultado True
+6. Resultado False
